@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it (see preferred-citation for the dataset paper)."
+title: "PROTECT-90: A Fault Dataset for Power System Protection"
+type: dataset
+authors:
+  - family-names: "Kordowich"
+    given-names: "Georg"
+    email: "georg.kordowich@fau.de"
+    affiliation: "Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  - family-names: "Oelhaf"
+    given-names: "Julian"
+    email: "julian.oelhaf@fau.de"
+    affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  - family-names: "Bergler"
+    given-names: "Christian"
+    affiliation: "Department of Electrical Engineering, Media and Computer Science, Ostbayerische Technische Hochschule Amberg-Weiden"
+  - family-names: "Maier"
+    given-names: "Andreas"
+    affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  - family-names: "Jäger"
+    given-names: "Johann"
+    affiliation: "Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  - family-names: "Bayer"
+    given-names: "Siming"
+    affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+year: 2026
+version: "0.1.0"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.18418330"
+url: "https://doi.org/10.5281/zenodo.18418330"
+repository-code: "https://git5.cs.fau.de/dpui/projects/coordinated-power-network-protection-based-on-machine-learning-techniques/protect90-dataset"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18418330"
+    description: "Version 0.1.0"
+  - type: doi
+    value: "10.5281/zenodo.18418329"
+    description: "Concept DOI (all versions)"
+keywords:
+  - power system protection
+  - fault dataset
+  - electromagnetic transients
+  - high-voltage systems
+  - reproducible benchmarking
+preferred-citation:
+  type: conference-paper
+  title: "PROTECT-90: A Fault Dataset for Power System Protection"
+  authors:
+    - family-names: "Oelhaf"
+      given-names: "Julian"
+      affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+    - family-names: "Kordowich"
+      given-names: "Georg"
+      affiliation: "Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+    - family-names: "Bergler"
+      given-names: "Christian"
+      affiliation: "Department of Electrical Engineering, Media and Computer Science, Ostbayerische Technische Hochschule Amberg-Weiden"
+    - family-names: "Maier"
+      given-names: "Andreas"
+      affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+    - family-names: "Jäger"
+      given-names: "Johann"
+      affiliation: "Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+    - family-names: "Bayer"
+      given-names: "Siming"
+      affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  collection-title: "2026 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)"
+  conference:
+    name: "2026 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)"
+    city: "Budapest"
+    country: "HU"
+  year: 2026
+  url: "https://arxiv.org/abs/2606.24298"
+  identifiers:
+    - type: other
+      value: "arXiv:2606.24298"
+      description: "arXiv preprint"
+  notes: "Accepted at IEEE PES ISGT Europe 2026; preprint arXiv:2606.24298. Final page numbers and IEEE DOI to appear once the proceedings are published."
