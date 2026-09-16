@@ -24,15 +24,15 @@ authors:
     given-names: "Siming"
     affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
 year: 2026
-version: "0.1.0"
+version: "1.0.0"
 license: CC-BY-4.0
-doi: "10.5281/zenodo.18418330"
-url: "https://doi.org/10.5281/zenodo.18418330"
-repository-code: "https://git5.cs.fau.de/dpui/projects/coordinated-power-network-protection-based-on-machine-learning-techniques/protect90-dataset"
+doi: "10.5281/zenodo.21109169"
+url: "https://doi.org/10.5281/zenodo.21109169"
+repository-code: "https://github.com/julianoelhaf/protect90-dataset"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.18418330"
-    description: "Version 0.1.0"
+    value: "10.5281/zenodo.21109169"
+    description: "Version 1.0.0"
   - type: doi
     value: "10.5281/zenodo.18418329"
     description: "Concept DOI (all versions)"

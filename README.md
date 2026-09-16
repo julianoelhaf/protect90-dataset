@@ -2,7 +2,7 @@
 
 Open, EMT-simulated high-voltage fault-waveform dataset for transparent and reproducible power-system protection research.
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18418330-blue.svg)](https://doi.org/10.5281/zenodo.18418330)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21109169-blue.svg)](https://doi.org/10.5281/zenodo.21109169)
 [![Code License: MIT](https://img.shields.io/badge/code-MIT-yellow.svg)](LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
@@ -13,7 +13,7 @@ This repository is the **showcase and documentation** for PROTECT-90. It points 
 independently citable artifacts — please don't conflate them:
 
 > 📦 **The dataset** — the waveforms + metadata, published on **Zenodo** under
-> **DOI [10.5281/zenodo.18418330](https://doi.org/10.5281/zenodo.18418330)** (v0.1.0; concept DOI
+> **DOI [10.5281/zenodo.21109169](https://doi.org/10.5281/zenodo.21109169)** (v1.0.0; concept DOI
 > `10.5281/zenodo.18418329`), licensed **CC BY 4.0**. *This is what you download and use.*
 >
 > 📄 **The paper** — *"PROTECT-90: A Fault Dataset for Power System Protection,"* which describes and
@@ -49,13 +49,13 @@ modeling assumptions and parameter bounds are explicitly documented for cross-st
 | Archive size | ~12.5 GB compressed, ~31 GB uncompressed; metadata CSV ~7.3 MB |
 | Missing values | none |
 | License | dataset: **CC BY 4.0** · this repo's code: **MIT** |
-| DOI | [10.5281/zenodo.18418330](https://doi.org/10.5281/zenodo.18418330) (v0.1.0) · concept: `10.5281/zenodo.18418329` |
+| DOI | [10.5281/zenodo.21109169](https://doi.org/10.5281/zenodo.21109169) (v1.0.0) · concept: `10.5281/zenodo.18418329` |
 
 ---
 
 ## Get the data
 
-Download from Zenodo: **https://doi.org/10.5281/zenodo.18418330**
+Download from Zenodo: **https://doi.org/10.5281/zenodo.21109169**
 
 After extracting the preprocessed archive you get this layout:
 
@@ -184,9 +184,9 @@ The dataset and the paper are **two distinct artifacts** — cite the one(s) you
   title     = {{PROTECT-90: A Fault Dataset for Power System Protection}},
   year      = {2026},
   publisher = {Zenodo},
-  version   = {0.1.0},
-  doi       = {10.5281/zenodo.18418330},
-  url       = {https://doi.org/10.5281/zenodo.18418330},
+  version   = {1.0.0},
+  doi       = {10.5281/zenodo.21109169},
+  url       = {https://doi.org/10.5281/zenodo.21109169},
   note      = {Concept DOI (all versions): 10.5281/zenodo.18418329}
 }
 ```
@@ -227,7 +227,7 @@ Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) 
 
 Julian Oelhaf — [julian.oelhaf@fau.de](mailto:julian.oelhaf@fau.de) ·
 Georg Kordowich — [georg.kordowich@fau.de](mailto:georg.kordowich@fau.de) ·
-[git5.cs.fau.de/juoelhaf](https://git5.cs.fau.de/juoelhaf)
+[github.com/julianoelhaf](https://github.com/julianoelhaf)
 
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) — Pattern Recognition Lab (PRL) ·
 Institute of Electrical Energy Systems (EES) · Ostbayerische Technische Hochschule Amberg-Weiden (OTH AW)
