@@ -23,7 +23,7 @@ authors:
   - family-names: "Bayer"
     given-names: "Siming"
     affiliation: "Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg"
-year: 2026
+date-released: "2026-07-01"
 version: "1.0.0"
 license: CC-BY-4.0
 doi: "10.5281/zenodo.21109169"
